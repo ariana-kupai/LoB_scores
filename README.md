@@ -11,4 +11,4 @@ LoB score: Lowest Bin (LoB) scoring ranks the most likely binders in the human p
 LoB scoring minimizes false positives because the lowest K-OPL value dictates the score instead of positionally weighting residues.
 
 Files are organized by methyl order of K-OPL.
-From left to right, the four columns are uniprot ID, lysine centered sevenmer sequence, LoB score, and residue number of the central lysine within the protein.
+Within a file, the four columns from left to right are uniprot ID, lysine centered sevenmer sequence, LoB score, and residue number of the central lysine within the protein.
