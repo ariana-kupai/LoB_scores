@@ -1,6 +1,5 @@
 # LoB_scores
 LoB scores generated from K-OPL profiles
-
 Originally described by in 2018 by Cornett DOI: 10.1126/sciadv.aav2623
 
 Where might my methyllysine reading protein/antibody bind in the human proteome? 
